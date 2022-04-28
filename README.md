@@ -2,7 +2,7 @@
 
 > a DER SPIEGEL scrollytelling
 
-<img src="./static/preview.png" alt="Screenshot of the Nobel laureates scrollytelling" height="300"/>
+<img src="./public/preview.png" alt="Screenshot of the Nobel laureates scrollytelling" height="300"/>
 
 A scrollytelling to highlight all Nobel laureates since 1901. Built with [Svelte](https://svelte.dev) and [D3](https://d3js.org).
 
