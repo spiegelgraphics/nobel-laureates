@@ -1,0 +1,367 @@
+[
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [],
+        "exclusiveIds": [997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009],
+        "description": {
+            "title": "Klimawandel, Kolonialismus, Meinungsfreiheit",
+            "body": "Auch zwei Deutsche sind unter den aktuellen Gewinnern. Den Nobelpreis für Chemie bekamen Benjamin List und der in Schottland geborene David W.C. MacMillan."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": false,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [1002, 1003],
+        "exclusiveIds": [997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009],
+        "description": {
+            "title": "Klimawandel, Kolonialismus, Meinungsfreiheit",
+            "body": "Die Forscher fanden heraus, dass auch kleine organische Moleküle chemische Reaktionen vermitteln."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": false,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [999, 1000, 1001],
+        "exclusiveIds": [997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009],
+        "description": {
+            "title": "Klimawandel, Kolonialismus, Meinungsfreiheit",
+            "body": "In der Kategorie Physik ging der Preis an den Deutschen Klaus Hasselmann sowie dessen Kollegen Giorgio Parisi und Syukuro Manabe. Hasselmann entwickelte unter anderem ein Modell, das zeigt, wie schnelle Temperaturschwankungen der Atmosphäre die Ozeantemperatur langfristig beeinflussen."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "uniform",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Geballte Genies",
+            "body": "Seit 1901 erhielten insgesamt 947 Menschen die Ehrung. Sie kann auch an Organisationen verliehen werden, was in 28 Fällen in Form eines Friedensnobelpreises geschah. In manchen Jahren fiel die Preisvergabe aus, etwa in den Weltkriegsjahren 1914-18 und 1939-1945."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Führende Medizin",
+            "body": "Die meisten Preisträger stammen aus dem Bereich Medizin (224), dicht gefolgt von Physik (219), Chemie (186), Literatur (118) und Frieden (109). Erst seit 1968 werden Forscherinnen und Forscher der Wirtschaftswissenschaften (89) geehrt."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [222, 66, 217, 6],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Zweifach geehrt",
+            "body": "In seltenen Fällen räumen Forscher doppelt ab. Bei insgesamt vier Wissenschaftlerinnen und Wissenschaftlern ist das in der Vergangenheit der Fall gewesen."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": false,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [6],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Zweifach geehrt",
+            "body": "Ein besonders berühmtes Beispiel: Marie Curie. Ihr wurde 1903 der Physiknobelpreis für die Pionierleistung auf dem Gebiet der spontanen Radioaktivität verliehen und 1911 der Chemienobelpreis für die Isolierung des Elements Radium."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "gender",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [
+            843, 892, 543, 990, 553, 428, 468, 535, 836, 453,
+            962, 817, 230, 782, 846, 835, 869, 506, 991, 983,
+            963, 824, 615, 438, 344, 597, 844, 194, 496, 992,
+            565, 870, 775, 993, 536, 914, 79, 1005, 6, 904, 540,
+            967, 668, 640, 979, 610, 554, 435, 413, 579, 773,
+            601, 924, 871, 670, 918, 783, 673, 1005
+        ],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Unterrepräsentierte Frauen",
+            "body": "Erst 58 Frauen haben bisher den Nobelpreis erhalten. Auch in diesem Jahr war das Männer-Frauen-Verhältnis unausgewogen."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": false,
+        "cluster_by": "gender",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [
+            1005  
+        ],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Unterrepräsentierte Frauen",
+            "body": "Von den diesjährigen 13 Gewinnern ist nur eine Person weiblich: Die philippinische Journalistin Maria Ressa. Sie teilt sich den Friedensnobelpreis mit dem russischen Journalisten Dmitri Muratow. Beide werden für ihren Kampf für die Pressefreiheit und ihren Einsatz bei der Aufdeckung von Korruption und Machtmissbrauch geehrt."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "gender",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [453],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Made in Germany",
+            "body": "Eine der wenigen deutschen Preisträgerinnen ist die Biologin und Biochemikerin Christiane Nüsslein-Volhard. Sie bekam die Ehrung für die Erforschung genetischer Kontrolle der frühen Embryonalentwicklung."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "uniform",
+        "inner_layout": {
+            "type": "histogram"
+        },
+        "outer_layout": {
+            "type": "none"
+        },
+        "highlightIds": [],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Von jung bis alt",
+            "body": "Die meisten Nobelpreisträger können auf eine lange Karriere zurückblicken. In der Regel sind die Gewinner älter als dreißig Jahre. Doch es gibt Ausnahmen und gleich zwei davon sind Frauen."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "histogram"
+        },
+        "outer_layout": {
+            "type": "none"
+        },
+        "highlightIds": [],
+        "exclusiveIds": [],
+        "description": {
+            "title": null,
+            "body": null
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "histogram"
+        },
+        "outer_layout": {
+            "type": "none"
+        },
+        "highlightIds": [914],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Die jüngsten ...",
+            "body": "2014 erhielt die damals 17-jährige Malala Yousafzai zusammen mit Kailash Satyarthi den Friedensnobelpreis für ihr Eintreten gegen die Unterdrückung von jungen Menschen und für deren Recht auf Bildung."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": false,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "histogram"
+        },
+        "outer_layout": {
+            "type": "none"
+        },
+        "highlightIds": [967],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Die jüngsten ...",
+            "body": "Ebenfalls den Friedensnobelpreis bekam die zur Zeit der Ehrung 25-jährige Irakerin Nadia Murad für ihren Einsatz gegen sexuelle Gewalt in Kriegsgebieten."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "prize_category",
+        "inner_layout": {
+            "type": "histogram"
+        },
+        "outer_layout": {
+            "type": "none"
+        },
+        "highlightIds": [976],
+        "exclusiveIds": [],
+        "description": {
+            "title": "... und die Ältesten",
+            "body": "John B. Goodenough war 97 Jahre alt, als er 2019 für die Entwicklung von Lithium-Ionen-Batterien den Chemie-Nobelpreis verliehen bekam. Posthum wird der Nobelpreis seit 1974 nicht mehr verliehen, es sei denn die Anwärter versterben zwischen Nominierung und Preisverleihung."
+        },
+        "showCategoryLabels": false
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "affiliation_country",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Gebündelte Brainpower",
+            "body": "Die Daten aller Nobelpreisgewinner zeigen: Es gibt Staaten die besonders gut darin sind, schlaue Köpfe ins Land zu locken. So lebte ein Großteil zum Zeitpunkt der Verleihung in den USA. Im Ranking folgen Großbritannien und Deutschland."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "birth_country",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Weltweites Wissen",
+            "body": "Schlüsselt man die Preisträger nach Geburtsland auf ergibt sich hingegen ein diverseres Bild. Doch auch hier ist erkennbar – die meisten stammen aus Europa und den USA."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "uniform",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [
+            199, 164, 185, 26,  304, 111, 1002, 445, 189, 500, 453, 166, 161, 340, 244, 127,
+            444, 379, 14, 253, 430, 128, 816, 240, 31, 491, 188, 136, 354, 329, 187, 823,
+            272, 647, 184, 530, 727, 617, 216, 156, 130, 80, 134, 30,  945, 270, 24, 976,
+            266, 228, 1000, 493, 233, 391, 23,  19, 640, 210, 202, 331, 312, 322, 580, 64,
+            941, 989, 176, 271, 799, 297, 578, 76, 394, 571, 793, 886, 602, 62, 361, 38,
+            1, 529, 739, 137  
+        ],
+        "exclusiveIds": [],
+        "description": {
+            "title": "Dichter und Denker",
+            "body": "Von den bisherigen Nobelpreisträgern sind 84 in Deutschland geboren. Berühmte Namen wie Max Planck, Albert Einstein oder Willy Brandt gehören dazu. Schon bei der ersten Preisverleihung 1901 wurde ein Mann geehrt, den heute wohl jedes Kind kennt. Zumindest jedes, das sich schon mal etwas gebrochen hat: Wilhelm Conrad Röntgen."
+        },
+        "showCategoryLabels": true
+    },
+    {
+        "showTick": true,
+        "largeTick": true,
+        "cluster_by": "uniform",
+        "inner_layout": {
+            "type": "phyllotaxis"
+        },
+        "outer_layout": {
+            "type": "clusterForce"
+        },
+        "highlightIds": [
+            199, 164, 185, 26,  304, 111, 1002, 445, 189, 500, 453, 166, 161, 340, 244, 127,
+            444, 379, 14, 253, 430, 128, 816, 240, 31, 491, 188, 136, 354, 329, 187, 823,
+            272, 647, 184, 530, 727, 617, 216, 156, 130, 80, 134, 30,  945, 270, 24, 976,
+            266, 228, 1000, 493, 233, 391, 23,  19, 640, 210, 202, 331, 312, 322, 580, 64,
+            941, 989, 176, 271, 799, 297, 578, 76, 394, 571, 793, 886, 602, 62, 361, 38,
+            1, 529, 739, 137  
+        ],
+        "exclusiveIds": [],
+        "description": {
+            "title": null,
+            "body": null
+        },
+        "showCategoryLabels": true
+    }
+]
