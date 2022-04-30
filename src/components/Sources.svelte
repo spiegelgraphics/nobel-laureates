@@ -8,9 +8,6 @@
         Bei Geburts- und Aufenthaltsland wurde jeweils das im Datensatz erstgenannte verwendet. Es handelt sich außerdem um die heutigen Länderbezeichnungen.
         Fehlen bei einer Person die jeweils gezeigten Daten, wurde diese Person von der Darstellung entfernt.
     </p>
-    <p style="color:#bbb9b7">Fotos: AFP; Daniel Bockwoldt / AFP; Natalia Kolesnikova / AFP; Noah Berger / AFP; Rappler / AP / dpa;
-        Denise
-        Applewhite / UPI Photo / IMAGO; Derrick Tuskan / AP; Frank Augstein / AP; Domenico Stinellis / AP; Eduardo Munoz / REUTERS; UC Berkeley / REUTERS; Sascha Schuermann / Getty Images; L. Barry Hetherington / CC BY-SA 4.0 / wikimedia commons</p>
 </div>
 
 <style lang="scss">
